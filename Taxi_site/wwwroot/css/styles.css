@@ -1,0 +1,40 @@
+﻿.budyak {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+}
+
+.col-md-4 {
+    width: 150%;
+}
+
+.register {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    color: antiquewhite;
+}
+
+.form-floating {
+    color: #71693b;
+}
+
+.registerSubmit {
+}
+
+.registerSubmit {
+    background-color: #71693b;
+    border-color: #6b6439;
+    background-color: #ab9515;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 22px;
+    display: inline-block;
+    transition: background-color 0.5s ease;
+}
+
+    .registerSubmit:hover {
+        background-color: #71693b;
+    }
